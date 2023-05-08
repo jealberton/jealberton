@@ -1,5 +1,6 @@
 ### Hello there 👋 I'm Jessica, a brazilian/italian Data Explorer 👩‍💻🌎
 
+(Loading repositories 🔜)
 
 Long story short about me:
 
