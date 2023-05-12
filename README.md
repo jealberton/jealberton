@@ -10,6 +10,7 @@ Long story short about me:
 - 💬 Ask me about anything, I'm glad to help ..
 - ⚡ Fun fact: I have a degree in chemical and food engineering, it took me 7.5 years to finish both 🤯
 - ✨ Favorite quote: “No astronaut launches to space with their fingers crossed. That’s not how we deal with risk.” -Chris Hadfield
+- 🖼️ Some dashboards: https://public.tableau.com/app/profile/jessica.alberton
 
 Some languages and dataviz platforms that I worked / I've been working with:
 
