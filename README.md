@@ -2,8 +2,8 @@
 
 Long story short about me:
 
-- 🔭 I’m currently working as a business intelligence analyst 
-- 🌱 I’m currently enroled in a data science MBA program
+- 🔭 I’m currently working as a Data Analytics Specialist 
+- 🌱 I have a postgraduate degree in Data Science 
 - 👋 I’m a native portuguese speaker, but you can reach me out in english, italian or spanish as well
 - 💬 Ask me about anything, I'm glad to help ..
 - ⚡ Fun fact: I have a degree in chemical and food engineering, it took me 7.5 years to finish both 🤯
