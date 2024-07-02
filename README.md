@@ -1,4 +1,4 @@
-### Hello there 👋 Nice to have you here 👩‍💻
+### Hello there 👋 Nice to have you here 
 
 - Currently I'm working as a Data Analytics Specialist 
 - I'm a chemical engineer with a postgraduate degree in Data Science 
